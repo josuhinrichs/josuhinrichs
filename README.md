@@ -10,11 +10,14 @@
 📌 I'm interested in studying DevOps, Kotlin, Android Development, UX/UI and Data Science.
 📌 I'm also a cryptocurrency enthusiast.
 
+
 ### Check my work!
 🗺 Instagram Page: https://www.instagram.com/estudio_laranja/
 
+
 ### 📫 How to reach me:
 📧 Email: josue2001marinho@gmail.com
+
 🔍 LinkedIn: https://www.linkedin.com/in/josu%C3%A9-hinrichs-82b109196/
 
 <!--
