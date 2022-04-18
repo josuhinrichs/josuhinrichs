@@ -8,11 +8,11 @@
 I'm a brazilian CS student at Universidade Federal do Ceará (UFC).
 
 ## About me
-🔭&nbsp;I’m currently working with ** DevOps and front end at GREat**
+🔭&nbsp;I’m currently working with **DevOps and front end at GREat**
 <br/>🌱&nbsp;Learning about **Android/Kotlin development and React**
 <br/>💡&nbsp;I'm interested about **Computer science, mobile development, games, books**
 <br/>⚡&nbsp;Fun fact **I'm also experienced at graphic design**
-<br/>📫&nbsp;Reach me [josue2001marinho@gmail.com | https://www.linkedin.com/in/josu%C3%A9-hinrichs-82b109196/](https://josue2001marinho@gmail.com | https://www.linkedin.com/in/josu%C3%A9-hinrichs-82b109196/)
+<br/>📫&nbsp;Reach me [josue2001marinho@gmail.com | https://www.linkedin.com/in/josu%C3%A9-hinrichs-82b109196/]
 <br/>🖥&nbsp; See my portfolio at [https://www.instagram.com/estudio_laranja/](https://https://www.instagram.com/estudio_laranja/)
 
 ## Tech Stack
