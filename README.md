@@ -10,8 +10,8 @@ I'm a brazilian CS student at Universidade Federal do Ceará (UFC).
 ## About me
 🔭&nbsp;I’m currently working with **DevOps and front end at [GREat](https://www.linkedin.com/company/greatufc/)**
 <br/>🌱&nbsp;Learning about **Android/Kotlin development and React**
-<br/>💡&nbsp;I'm interested about **Computer science, mobile development, games, books**
-<br/>⚡&nbsp;Fun fact **I'm also experienced at graphic design**
+<br/>💡&nbsp;I'm interested about **Computer science, mobile development, games and books**
+<br/>⚡&nbsp;Fun fact: **I'm also experienced at graphic design**
 <br/>📫&nbsp;Reach me at [josue2001marinho@gmail.com](mailto:josue2001marinho@gmail.com)
 <br/>🖥&nbsp; See my portfolio at [Estudio Laranja](https://www.instagram.com/estudio_laranja/)
 
@@ -29,6 +29,6 @@ I'm a brazilian CS student at Universidade Federal do Ceará (UFC).
 
 ## GitHub Analytics
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=josuhinrichs&theme=dracula&show_icons=true&count_private=true&hide=stars,issues">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuhinrichs&theme=dracula&layout=compact&langs_count=5">
+<img src="https://github-readme-stats.vercel.app/api?username=josuhinrichs&theme=dracula&show_icons=true&count_private=true&hide=stars,issues">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuhinrichs&theme=dracula&layout=compact&langs_count=5">
 </div>
